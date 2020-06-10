@@ -56,7 +56,7 @@ enable = true
 
 [params.widgets]
 header = ["breadcrumbs"]
-homepage = ["recent_posts"]
+# homepage = ["recent_posts"]
 sidebar = ["about","sidebar_menu"]
 footer = ["social_menu"]
 
@@ -74,6 +74,7 @@ titleSeparator = "•"
 
 [params.social]
 email = "me@ptcrash.me"
+linkedin = "passthecrash"
 github = "ptcrash"
 twitter = "ptcrash"
 
@@ -107,11 +108,17 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/achary/engimo"
+[[menu.sidebar]]
+name = "Home"
+weight = -1
+identifier = "Homepage"
+url = "/"
+
+[[menu.sidebar]]
+name = "Blog"
+weight = 50
+identifier = "Blog Posts"
+url = "/posts"
 
 [languages]
 # edit this block for your own language

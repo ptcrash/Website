@@ -3,32 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.ptcrash.dev/authors/</loc>
-    <lastmod>2020-06-09T19:18:16-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ptcrash.dev/posts/my-first-post/</loc>
-    <lastmod>2020-06-09T19:18:16-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ptcrash.dev/posts/</loc>
-    <lastmod>2020-06-09T19:18:16-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ptcrash.dev/authors/ptcrash/</loc>
-    <lastmod>2020-06-09T19:18:16-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.ptcrash.dev/</loc>
-    <lastmod>2020-06-09T19:18:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ptcrash.dev/authors/</loc>
   </url>
   
   <url>
     <loc>https://www.ptcrash.dev/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ptcrash.dev/</loc>
   </url>
   
   <url>
