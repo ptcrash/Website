@@ -5,4 +5,3 @@ authors: ["ptcrash"]
 ---
 
 Hello, World!
-

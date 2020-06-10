@@ -30,13 +30,12 @@ title404 = "Nothing's here!"
 favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
-gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = "[Engimo theme by Acharcy](https://github.com/achary/engimo);"
 holder = "John Martin;"
 startYear = "2020"
-suffix = "Text is available under a [Creative Commons Attribution 4.0 International License ![CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)"
+suffix = "Text is available under [Creative Commons Attribution 4.0 International License ![CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)"
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
@@ -48,8 +47,8 @@ hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = true
 showLastmod = true
 taxonomyCloudShuffle = false
-accentColor = "#44ccff"
-hideMainMenu = false
+accentColor = "#da8388"
+hideMainMenu = true
 rtl = false
 
 [params.sidebar]
@@ -113,9 +112,6 @@ name = "Repo"
 weight = -10
 identifier = "repository"
 url = "https://github.com/achary/engimo"
-
-[blackfriday]
-hrefTargetBlank = true
 
 [languages]
 # edit this block for your own language
