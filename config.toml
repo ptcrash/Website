@@ -56,7 +56,6 @@ enable = true
 
 [params.widgets]
 header = ["breadcrumbs"]
-# homepage = ["recent_posts"]
 sidebar = ["about","sidebar_menu"]
 footer = ["social_menu"]
 
@@ -117,7 +116,7 @@ url = "/"
 [[menu.sidebar]]
 name = "Blog"
 weight = 50
-identifier = "Blog Posts"
+identifier = "Blog"
 url = "/posts"
 
 [languages]
