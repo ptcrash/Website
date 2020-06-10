@@ -1,0 +1,12 @@
+id = "ptcrash"
+
+[email]
+username = "me"
+host = "ptcrash.dev"
+
+[name]
+display = "John Martin"
+
+[social]
+twitter = "ptcrash"
+github = "ptcrash"
