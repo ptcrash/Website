@@ -1,4 +1,4 @@
-baseURL = "https://www.ptcrash.dev"
+baseURL = "https://ptcrash.dev"
 title = "ptcrash"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
@@ -28,8 +28,8 @@ title404 = "Nothing's here!"
 [params.assets]
 
 favicon = "favicon.ico"
-customCSS = ["css/custom.css"]
-customJS = ["js/custom.js"]
+# customCSS = ["css/custom.css"]
+# customJS = ["js/custom.js"]
 
 [params.copyright]
 prefix = "[Engimo theme by Acharcy](https://github.com/achary/engimo);"
