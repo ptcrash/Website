@@ -84,11 +84,12 @@ enable = "utterances"
 # Utterances: https://utteranc.es
 [params.comments.utterances]
 enable = true
-issueTerm = "pathname" # pathname / url / title
+issueTerm = "title" # pathname / url / title
 
 [params.comments.utterances.github]
 username = "ptcrash"
 repository = "Website"
+label = "comments"
 
 [params.search]
 client = "fuse" # algolia / fuse / lunr
