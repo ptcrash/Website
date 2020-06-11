@@ -119,6 +119,12 @@ weight = 50
 identifier = "Blog"
 url = "/posts"
 
+[[menu.sidebar]]
+name = "Projects"
+weight = 60
+identifier = "Projects"
+url = "https://github.com/ptcrash?tab=repositories"
+
 [languages]
 # edit this block for your own language
 [languages.en]

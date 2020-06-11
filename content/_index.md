@@ -1,1 +1,3 @@
-Hello, world. This blog  is still in development. This page is the home page while other blog posts are posted in the `posts/` directory, navigatable by clicking 'Blog' from the menu on the left.
+Hello, My name is John. I'm a cloud infrastructure engineer, an advocate for LGBT community, and an freewight enthusiast. I treat this blog as half journal half technical guide.
+
+Recruiters, see my LinkedIn.
