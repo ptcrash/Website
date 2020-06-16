@@ -39,9 +39,9 @@ suffix = "Text is available under [Creative Commons Attribution 4.0 Internationa
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
-dateFormat = "2006, Jan 02"
-listDateFormat = "2006, Jan 02"
-archiveDateFormat = "Jan 02"
+dateFormat = "Jan 2, 2006"
+listDateFormat = "Jan 2, 2006"
+archiveDateFormat = "Jan 2, 2006"
 hideEntryNavigation = ["page"] # boolean / array of sections
 hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = true
@@ -69,13 +69,13 @@ page = "" # Twitter page username
 
 [params.seo]
 # Title Separator: - – — · • * ⋆ | ~ « » < >
-titleSeparator = "•"
+titleSeparator = "–"
 
 [params.social]
 email = "ptcrash@pm.me"
 linkedin = "passthecrash"
 github = "ptcrash"
-twitter = "ptcrash"
+twitter = "passthecrash"
 
 [params.comments]
 enable = "utterances"

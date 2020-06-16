@@ -1,12 +1,12 @@
 id = "ptcrash"
 
 [email]
-username = "me"
-host = "ptcrash.dev"
+username = "ptcrash"
+host = "pm.me"
 
 [name]
 display = "John Martin"
 
 [social]
-twitter = "ptcrash"
+twitter = "ptassthecrash"
 github = "ptcrash"
