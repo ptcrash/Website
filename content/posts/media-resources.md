@@ -9,11 +9,13 @@ tags:
     - "media"
 categories:
     - "resources"
-description: "My personal list of go-to sites for free media elements and components when I scaffold front-ends."
+description: "My list of go-to sites for free media elements & components when scaffolding front-ends."
 cover: 
     image: "/images/6706F55A-E1C8-4EE5-A013-F13CF78CAB6E.svg"
     alternate: "Image of a person viewing a large list."
     caption: "Image courtesy of [unDraw](https://undraw.co/)"
+images:
+    - "/images/3722DDA5-02AB-4B67-A549-F803DB7B21E1.png"
 ---
 
 I'll be the first to admit that I'm not a frontend guy. I lack the desire to learn the latest JS frameworks and artistically speaking, I have about as much creative talent as an ironing board. So, I heavily rely on frameworks and tools to wireframe, skeleton, and otherwise fill the creative void in my projects. This is my list of tools I turn to first. I've broken them up into several categories based on the type of media you can get. To make it on my list, each website should have these attributes:
