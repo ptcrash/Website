@@ -1,1 +1,1 @@
-Hello, My name is John. I'm a security analyst, an advocate for LGBT community, and an free weight enthusiast. I treat this blog as half journal half technical guide.
+Hello, My name is John. I'm a security engineer, an advocate for LGBT community, and an free weight enthusiast. I treat my blog as half journal half technical guide; if you find something useful, let me know!
