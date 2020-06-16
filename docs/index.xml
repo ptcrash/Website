@@ -5,9 +5,19 @@
     <link>https://ptcrash.dev/</link>
     <description>Recent content on ptcrash</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ptcrash.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Media Resources</title>
+      <link>https://ptcrash.dev/posts/media-resources/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ptcrash.dev/posts/media-resources/</guid>
+      <description>I&amp;rsquo;ll be the first to admit that I&amp;rsquo;m not a frontend guy. I lack the desire to learn the latest JS frameworks and artistically speaking, I have about as much creative talent as an ironing board. So, I heavily rely on frameworks and tools to wireframe, skeleton, and otherwise fill the creative void in my projects. This is my list of tools I turn to first. I&amp;rsquo;ve broken them up into several categories based on the type of media you can get.</description>
+    </item>
     
   </channel>
 </rss>

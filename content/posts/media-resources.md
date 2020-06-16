@@ -1,6 +1,6 @@
 ---
 title: Media Resources
-date: "2020-06-15"
+date: "2020-06-16"
 authors: 
     - "ptcrash"
 tags:
@@ -14,7 +14,6 @@ cover:
     image: "/images/6706F55A-E1C8-4EE5-A013-F13CF78CAB6E.svg"
     alternate: "Image of a person viewing a large list."
     caption: "Image courtesy of [unDraw](https://undraw.co/)"
-draft: true
 ---
 
 I'll be the first to admit that I'm not a frontend guy. I lack the desire to learn the latest JS frameworks and artistically speaking, I have about as much creative talent as an ironing board. So, I heavily rely on frameworks and tools to wireframe, skeleton, and otherwise fill the creative void in my projects. This is my list of tools I turn to first. I've broken them up into several categories based on the type of media you can get. To make it on my list, each website should have these attributes:

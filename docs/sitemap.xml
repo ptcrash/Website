@@ -4,23 +4,62 @@
   
   <url>
     <loc>https://ptcrash.dev/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://ptcrash.dev/tags/art/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ptcrash.dev/authors/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ptcrash.dev/categories/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ptcrash.dev/series/</loc>
+    <loc>https://ptcrash.dev/tags/lists/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ptcrash.dev/tags/media/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ptcrash.dev/posts/media-resources/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ptcrash.dev/posts/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ptcrash.dev/authors/ptcrash/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ptcrash.dev/categories/resources/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ptcrash.dev/tags/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ptcrash.dev/series/</loc>
   </url>
   
 </urlset>
