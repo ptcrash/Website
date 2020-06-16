@@ -9,7 +9,7 @@ tags:
     - "media"
 categories:
     - "resources"
-description: "My list of go-to sites for free media elements & components when scaffolding front-ends."
+description: "My list of go-to sites for media elements & components when scaffolding front-ends."
 cover: 
     image: "/images/6706F55A-E1C8-4EE5-A013-F13CF78CAB6E.svg"
     alternate: "Image of a person viewing a large list."
