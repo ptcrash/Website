@@ -18,7 +18,7 @@ $ hugo -d docs # To render the HTML into the docs/ directory
 To render draft pages, add the `-D` flag to either the `hugo server` to run the temp server and `hugo -d docs` to render to the docs/ directory.
 
 ## Contributing
-PRs to correct spelling and grammar mistake are welcome. Please don't submit general changes; This is my own personal project and I like the way it looks.
+PRs to correct spelling and grammar mistake are welcome. Please don't submit general changes; This is my own personal project, not a watering hole. Discourse is encouraged via the comment section on each post.
 
 ## License
 This blog is licensed under Apache 2.0. All of my writing is licensed under the Creative Commons Attribution 4.0 International License.
