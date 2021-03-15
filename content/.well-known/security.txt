@@ -1,0 +1,5 @@
+Contact: mailto:ptcrash@pm.me
+Expires: Sat, 1 Jan 2022 00:00 -0500
+Encryption: https://ptcrash.dev/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://ptcrash.dev/.well-known/security.txt
